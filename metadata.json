@@ -1,0 +1,8 @@
+{
+  "name": "Karma Group - AI Use-Case Tracker",
+  "description": "Executive dashboard tracking AI initiatives across Karma Resorts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
